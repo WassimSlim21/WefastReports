@@ -61,3 +61,8 @@ WEFAST FORMULA1 ANALYSIS is an optimized decision support system designed for Fo
 
 ## Acknowledgments:
 - Special thanks to the Formula 1 community and Ergast API for providing valuable data sources.
+
+### Video Demo
+
+To watch the video demo, please visit the following LinkedIn post:
+[View Video Demo](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6946510288301010944)
