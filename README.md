@@ -64,4 +64,7 @@ WEFAST FORMULA1 ANALYSIS is an optimized decision support system designed for Fo
 
 ### Video Demo
 
-[Watch Video Demo](https://www.linkedin.com/posts/wassimslim_buisinessintelligence-datawarehouse-etl-activity-6946511053459496960-rDGD?utm_source=share&utm_medium=member_android)
+[Watch Video Demo](https://drive.google.com/file/d/1F7tFp7naJQAZeQhvz3BJqcaET4pk3nZs/view?usp=sharing)
+
+![alt text](https://github.com/WefastReports/WassimSlim21/blob/master/0.jpg?raw=true)
+
